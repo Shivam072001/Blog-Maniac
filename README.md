@@ -22,9 +22,9 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/soumyajit4419/Bits-0f-C0de/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/Shivam072001/Blog-Maniac/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/soumyajit4419/Bits-0f-C0de/issues">Request Feature</a>
+    <a href="https://github.com/Shivam072001/Blog-Maniac/issues">Request Feature</a>
 </h3>
 
 ## Built With
