@@ -1,9 +1,9 @@
-## Bits-0f-C0de
+## Blog-Maniac
 
 ## Writing own blogs made easier for everyone!
 
 <h2 align="center">
-  <a href="https://soumyajitblogs.vercel.app/" target="_blank">soumyajitblogs.vercel.app</a>
+  <a href="blog-maniac-nine.vercel.app" target="_blank">soumyajitblogs.vercel.app</a>
 </h2>
 
 <div align="center">
