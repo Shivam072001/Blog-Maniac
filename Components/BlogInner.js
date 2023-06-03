@@ -10,7 +10,7 @@ function BlogInner({ data, content, headings }) {
         style={{ width: "calc(100% - 15rem)" }}
       >
         <img
-          className="object-cover w-full h-72"
+          className="object-cover w-full h-full"
           src={data.HeaderImage}
           alt="Article Image"
         />
